@@ -1,0 +1,1 @@
+my @array = (1, 2, 3); foreach my $val (@array){ print "$val\n"; } #Alternative using index for(@array){ print "\$array[$_]\n"; }
